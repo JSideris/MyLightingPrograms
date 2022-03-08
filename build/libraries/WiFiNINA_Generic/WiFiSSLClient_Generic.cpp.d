@@ -1,0 +1,34 @@
+c:\Users\josh_\OneDrive\Desktop\arduino-lights-2\build\libraries\WiFiNINA_Generic\WiFiSSLClient_Generic.cpp.o: \
+ C:\Users\josh_\OneDrive\Documents\Arduino\libraries\WiFiNINA_Generic\src\WiFiSSLClient_Generic.cpp \
+ C:\Users\josh_\OneDrive\Documents\Arduino\libraries\WiFiNINA_Generic\src\WiFiSSLClient_Generic.h \
+ C:\Users\josh_\OneDrive\Documents\Arduino\libraries\WiFiNINA_Generic\src\WiFiClient_Generic.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/Arduino.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/ArduinoAPI.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Binary.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Interrupts.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Common.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/IPAddress.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Printable.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/String.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Print.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/PluggableUSB.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/USBAPI.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Server.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Stream.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Udp.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/WCharacter.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/Compat.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/UART.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/HardwareSerial.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\variants\uno2018/pins_arduino.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\variants\uno2018/timers.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/USBCore.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/CDC.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/USBAPI.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/MSC.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/UNO_compat.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/Arduino.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/deprecated/Print.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/deprecated/Client.h \
+ c:\users\josh_\appdata\local\arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino\api\client.h \
+ C:\Users\josh_\AppData\Local\Arduino15\packages\arduino\hardware\megaavr\1.8.7\cores\arduino/api/deprecated/IPAddress.h

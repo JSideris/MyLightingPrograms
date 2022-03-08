@@ -1,0 +1,7 @@
+{
+    "sketch": "main.ino",
+    "output": "build",
+    "board": "arduino:megaavr:uno2018",
+    "port": "COM5",
+    "configuration": "mode=on"
+}
